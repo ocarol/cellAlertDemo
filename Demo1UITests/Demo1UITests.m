@@ -2,8 +2,8 @@
 //  Demo1UITests.m
 //  Demo1UITests
 //
-//  Created by 余丽丽 on 15/11/24.
-//  Copyright © 2015年 余丽丽. All rights reserved.
+//  Created by ocarol on 15/11/24.
+//  Copyright © 2015年 ocarol. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
